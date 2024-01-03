@@ -1,0 +1,8 @@
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\bin\Debug\Breuken_DAKI.exe.config
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\bin\Debug\Breuken_DAKI.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\bin\Debug\Breuken_DAKI.pdb
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\obj\Debug\Breuken_DAKI.csproj.AssemblyReference.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\obj\Debug\Breuken_DAKI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\obj\Debug\Breuken_DAKI.csproj.CoreCompileInputs.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\obj\Debug\Breuken_DAKI.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\Breuken_DAKI\Breuken_DAKI\obj\Debug\Breuken_DAKI.pdb

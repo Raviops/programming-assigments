@@ -1,0 +1,8 @@
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\bin\Debug\DAKI_Schijven.exe.config
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\bin\Debug\DAKI_Schijven.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\bin\Debug\DAKI_Schijven.pdb
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\obj\Debug\DAKI_Schijven.csproj.AssemblyReference.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\obj\Debug\DAKI_Schijven.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\obj\Debug\DAKI_Schijven.csproj.CoreCompileInputs.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\obj\Debug\DAKI_Schijven.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\DAKI_Schijven\DAKI_Schijven\obj\Debug\DAKI_Schijven.pdb

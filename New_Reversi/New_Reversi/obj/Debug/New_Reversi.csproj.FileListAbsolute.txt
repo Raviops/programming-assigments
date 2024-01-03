@@ -1,0 +1,11 @@
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\bin\Debug\New_Reversi.exe.config
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\bin\Debug\New_Reversi.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\bin\Debug\New_Reversi.pdb
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.csproj.AssemblyReference.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.Properties.Resources.resources
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.csproj.GenerateResource.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.csproj.CoreCompileInputs.cache
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.exe
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.pdb
+C:\Users\ravim\OneDrive - Scholengroep Over- en Midden Betuwe\Documenten\Programming\New_Reversi\New_Reversi\obj\Debug\New_Reversi.Form1.resources
