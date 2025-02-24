@@ -1,0 +1,21 @@
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\bin\Debug\CI_Sudoku2.exe.config
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\bin\Debug\CI_Sudoku2.exe
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\bin\Debug\CI_Sudoku2.pdb
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.AssemblyReference.cache
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.Form1.resources
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.Properties.Resources.resources
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.GenerateResource.cache
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.exe
+C:\Users\9JVis\OneDrive\Documents\kunstmatige intelligentie\thesis\CI_Sudoku2\CI_Sudoku2\obj\Debug\CI_Sudoku2.pdb
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\bin\Debug\CI_Sudoku2.exe.config
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\bin\Debug\CI_Sudoku2.exe
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\bin\Debug\CI_Sudoku2.pdb
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.AssemblyReference.cache
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.Form1.resources
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.Properties.Resources.resources
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.GenerateResource.cache
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.exe
+C:\Users\ravim\Documenten\Computationele intelligentie\Practicum 1\CI_Sudoku2 (7)\CI_Sudoku2\obj\Debug\CI_Sudoku2.pdb
